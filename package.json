@@ -1,0 +1,13 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "main": "nodeprac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " npx nodemon nodeprac.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
